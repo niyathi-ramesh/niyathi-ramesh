@@ -6,11 +6,11 @@ My name is Niyathi Ramesh. I am a Senior Front End Engineer & Freelancer. I am f
 
 ## 🔧 Langueages & Tools
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="auto" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="auto" height="40"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="auto" height="40"/>
 </p>
 
 
@@ -24,13 +24,10 @@ My name is Niyathi Ramesh. I am a Senior Front End Engineer & Freelancer. I am f
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://linkedin.com/in/niyathi-ramesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-
-
-
-[1.1]: https://i.imgur.com/Vahbdkj.png (linkedin icon)
-
-<!---
-niyathi-ramesh/niyathi-ramesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://linkedin.com/in/niyathi-ramesh" target="_blank" title="Niyathi LinkedIn">
+    <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="" height="30" width="auto" />
+  </a>
+  <a href="https://niyathi.online" target="_blank" title="Niyathi Portfolio">
+    <img align="center" src="https://avatars.githubusercontent.com/u/50843090?v=4" alt="Niyathi Portfolio" height="30" width="auto" />
+  </a>
+</p>
